@@ -1,0 +1,149 @@
+.section1{
+	background-color:rgb(255,128,0);
+	height:600px;
+	width:1358px;
+}
+.heading{
+	position:relative;
+	font-size:4rem;
+	color:white;
+	text-shadow:2px 2px 2px black;
+	left:225px;
+	top:160px;
+}
+.pragraph{
+	color:white;
+	position:relative;
+	text-shadow:1px 1px 1px black;
+	left:225px;
+	top:175px;
+	font-size:20px;
+}
+.button1{
+	position:relative;
+	top:200px;
+}
+button{
+	position:relative;
+	left:225px;
+	padding:3px 25px;
+	border-radius:25px;
+	font-size:20px;
+	background-color:rgb(0,150,120);
+	border:2px solid white;
+	color:white;
+	box-shadow:1px 1px 3px black;
+	cursor:pointer;
+}
+#read{
+	margin:0px 15px;
+}
+.image{
+	position:relative;
+	left:765px;
+	top:-110px;
+}
+.img1{
+	border-radius:25px;
+	box-shadow:1px 1px 5px black;
+}
+.section2{
+	height:600px;
+	width:1358px;
+}
+.heading2{
+	position:relative;
+	left:490px;
+	top:55px;
+	font-size:4rem;
+	color:rgb(255,128,0);
+	text-shadow:1px 1px 3px black;
+	font-weight:bold;
+}
+.boxes{
+	position:relative;
+	display:grid;
+	grid-template-columns:400px 400px 400px;
+	top:115px;
+	left:115px;
+	
+}
+.box1{
+	border:2px solid rgb(255,128,0);
+	height:400px;
+	width:300px;
+	border-radius:20px;
+}
+.box2{
+	border:2px solid rgb(255,128,0);
+	height:400px;
+	width:300px;
+	border-radius:20px;
+}
+.box3{
+	border:2px solid rgb(255,128,0);
+	height:400px;
+	width:300px;
+	border-radius:20px;
+}
+.boximg1{
+	position:relative;
+	left:20px;
+	top:0px;
+}
+.boximg2{
+	position:relative;
+	left:20px;
+	top:0px;
+	height:183px;
+	width:264px;
+}
+.boximg3{
+	position:relative;
+	left:20px;
+	top:0px;
+	height:196px;
+	width:264px;
+}
+.heading3{
+	color:rgb(255,128,0);
+	position:relative;
+	left:36px;
+	top:0px;
+	font-size:2.5rem;
+	text-shadow:1px 1px 2px black;
+}
+.heading4{
+	color:rgb(255,128,0);
+	position:relative;
+	left:36px;
+	top:20px;
+	font-size:2.5rem;
+	text-shadow:1px 1px 2px black;
+}
+.heading5{
+	color:rgb(255,128,0);
+	position:relative;
+	left:36px;
+	top:8px;
+	font-size:2.5rem;
+	text-shadow:1px 1px 2px black;
+}
+.p1{
+	position:relative;
+	top:25px;
+	margin:0px 35px;
+	font-size:20px;
+}
+.p2{
+	position:relative;
+	top:40px;
+	margin:0px 35px;
+	font-size:20px;
+}
+.p3{
+	position:relative; 
+	top:25px;
+	margin:0px 35px;
+	font-size:20px;
+}
